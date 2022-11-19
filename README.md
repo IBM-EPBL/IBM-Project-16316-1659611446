@@ -1,5 +1,5 @@
 ![CoverImage](https://user-images.githubusercontent.com/91306041/190939624-d01b646e-a7c9-4b28-920a-95e287677f7c.jpg)
-# 🏥Hospitals' Health-Care Data
+# 🏥Hospital's Health-Care Data
 TECHNOLOGY : Data Analytics <br>
 TEAM ID : PNT2022TMID39763 <br>
 WEBAPP : <a href="https://healthcare-analytics.vercel.app/">healthcare-analytics.vercel.app</a> <br>
